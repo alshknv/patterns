@@ -5,7 +5,7 @@ using Program;
 
 namespace Tests
 {
-    public class UnitTest1
+    public class UnitTest
     {
         [Fact]
         public void TwoRealRoots()

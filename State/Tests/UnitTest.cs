@@ -21,7 +21,7 @@ namespace Tests
             return statusList;
         }
     }
-    public class UnitTest1
+    public class UnitTest
     {
         [Fact]
         public void OpenTest()
